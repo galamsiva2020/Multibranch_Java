@@ -8,3 +8,4 @@ stage('SCM Checlkout'){
  mvnHome ='D:/GALAM/SivaDevopsSoftwares/apache-maven-3.6.0-bin/apache-maven-3.6.0'
  }
  
+}
